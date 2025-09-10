@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cronk-nuget")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea64a29519dbc5e2ab9e33aacff0059b1b51dbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7083291e5f4c4e4aadf9f4d3cac77ae54d801fc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("cronk-nuget")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cronk-nuget")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

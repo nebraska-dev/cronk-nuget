@@ -4,8 +4,11 @@
     <id>cronk-nuget</id>
     <version>1.0.0</version>
     <authors>cronk-nuget</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
     <description>Package Description</description>
-    <repository type="git" commit="aea64a29519dbc5e2ab9e33aacff0059b1b51dbf" />
+    <repository type="git" commit="7083291e5f4c4e4aadf9f4d3cac77ae54d801fc9" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>
@@ -13,5 +16,7 @@
   <files>
     <file src="/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/bin/Release/net8.0/cronk-nuget.runtimeconfig.json" target="lib/net8.0/cronk-nuget.runtimeconfig.json" />
     <file src="/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/bin/Release/net8.0/cronk-nuget.dll" target="lib/net8.0/cronk-nuget.dll" />
+    <file src="/usr/local/google/home/joycebrum/gh/cronk-nuget/LICENSE" target="LICENSE" />
+    <file src="/usr/local/google/home/joycebrum/gh/cronk-nuget/README.md" target="/README.md" />
   </files>
 </package>
