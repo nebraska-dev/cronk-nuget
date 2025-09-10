@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>cronk-nuget</id>
+    <version>1.0.0</version>
+    <authors>cronk-nuget</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="aea64a29519dbc5e2ab9e33aacff0059b1b51dbf" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/bin/Release/net8.0/cronk-nuget.runtimeconfig.json" target="lib/net8.0/cronk-nuget.runtimeconfig.json" />
+    <file src="/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/bin/Release/net8.0/cronk-nuget.dll" target="lib/net8.0/cronk-nuget.dll" />
+  </files>
+</package>

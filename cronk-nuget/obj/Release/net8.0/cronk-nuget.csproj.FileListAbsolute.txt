@@ -1,0 +1,15 @@
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/bin/Release/net8.0/cronk-nuget
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/bin/Release/net8.0/cronk-nuget.deps.json
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/bin/Release/net8.0/cronk-nuget.runtimeconfig.json
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/bin/Release/net8.0/cronk-nuget.dll
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/bin/Release/net8.0/cronk-nuget.pdb
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/obj/Release/net8.0/cronk-nuget.GeneratedMSBuildEditorConfig.editorconfig
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/obj/Release/net8.0/cronk-nuget.AssemblyInfoInputs.cache
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/obj/Release/net8.0/cronk-nuget.AssemblyInfo.cs
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/obj/Release/net8.0/cronk-nuget.csproj.CoreCompileInputs.cache
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/obj/Release/net8.0/cronk-nuget.sourcelink.json
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/obj/Release/net8.0/cronk-nuget.dll
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/obj/Release/net8.0/refint/cronk-nuget.dll
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/obj/Release/net8.0/cronk-nuget.pdb
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/obj/Release/net8.0/cronk-nuget.genruntimeconfig.cache
+/usr/local/google/home/joycebrum/gh/cronk-nuget/cronk-nuget/obj/Release/net8.0/ref/cronk-nuget.dll
